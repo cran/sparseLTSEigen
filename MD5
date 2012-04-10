@@ -1,0 +1,17 @@
+b9f0bd00b083af08409ad8a043758c76 *DESCRIPTION
+6d1dca6771d1b43be11364a631602597 *NAMESPACE
+184a4cd354aa87aab29b3f3e314f0203 *R/backend.R
+1ea03d15688ee15190183ff5ba427c2d *R/sparseLTSEigen.R
+0eea53dbc65a34d8315465b0b50fda70 *inst/include/MatrixAddons.h
+02369edb54921cc2adb5796f52ebca4f *inst/include/sparseLTSEigen.h
+b9b163156595928396956f4b4615d4cc *man/sparseLTSEigen-package.Rd
+7f9498c6c6c87ceab3865ad2aaa31ff0 *src/Makevars
+51ca45bca5df8763b8d2be5d5f60e885 *src/Makevars.win
+1735c12e95ca97cb88aeb2fd404cb136 *src/fastLasso.cpp
+ae8e6947779495835ac734736335eb9b *src/fastLasso.h
+39590611e8595ae88d0e15d187ce4b2d *src/fastSparseLTS.cpp
+5576c958e6575f7b7907c185b3c54cdd *src/fastSparseLTS.h
+6e3d0b8b2dddb7569006d2aab960e1ee *src/initialSubsets.cpp
+2907cf110f9e8a63d21087cbce985d27 *src/initialSubsets.h
+6b25d8816ffdd7d1ed80528b54504a3d *src/utils.cpp
+6f01dc18e166c1a303da6084ff959021 *src/utils.h
