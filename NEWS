@@ -1,3 +1,12 @@
+Changes in sparseLTSEigen version 0.1.2
+
+    + Redesign of how C++ back end is called from package 'robustHD'.
+    
+    + Adapted C++ code to new version of package 'robustHD'.
+    
+    + Bugfix in fastSparseLTS() for more stability of the results.
+
+
 Changes in sparseLTSEigen version 0.1.1
 
     + Parallel computing is now available via OpenMP.
