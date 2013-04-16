@@ -1,13 +1,13 @@
-3dac245fb467fd7f1eb2c737550aab45 *DESCRIPTION
+7cde1294e22ff7398d20c5b0a8f8d7d6 *DESCRIPTION
 469fcebae7adcbe0f44daceb7a7a03af *NAMESPACE
-154beff7d6416910e8bc7aad54830748 *NEWS
+7df561f85a8b273b31793da7fa99b14a *NEWS
 1c7b649e4b927e45a214780e8c403646 *R/sparseLTSEigen.R
 0eea53dbc65a34d8315465b0b50fda70 *inst/include/MatrixAddons.h
 02369edb54921cc2adb5796f52ebca4f *inst/include/sparseLTSEigen.h
-512e8ab80a54120139824cbacfd8320f *man/sparseLTSEigen-package.Rd
+dfd406004348b94c27824f92f263ac4e *man/sparseLTSEigen-package.Rd
 dd80113f650478da3ba1194ce117badd *src/Makevars
 a68f199e32889b4dfd181da114dc6adc *src/Makevars.win
-ade7bd86d35b4dec6b9fe0d75a91c161 *src/fastLasso.cpp
+ac1067ff0c7f68724bb4450d69a6fc20 *src/fastLasso.cpp
 0c717dc063e211bed6a28b07f8000dcd *src/fastLasso.h
 941b24e5a10cdd2bf686f5199dadb37b *src/fastSparseLTS.cpp
 1d171cc2ba19249c30d69ddc338d105d *src/fastSparseLTS.h
