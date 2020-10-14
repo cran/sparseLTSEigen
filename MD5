@@ -1,9 +1,9 @@
-f09f01238b894459b390f7ffdddba2c0 *DESCRIPTION
+50a75df7197bd36d909a25fedb5f8b31 *DESCRIPTION
 396406c3eb3beb4b4168aac20e82c464 *NAMESPACE
 bda74b3270ca2791bd03639c7dcf2131 *NEWS
 0b1b373b2f2b78db50f11351c7905b3e *R/sparseLTSEigen.R
-0eea53dbc65a34d8315465b0b50fda70 *inst/include/MatrixAddons.h
-02369edb54921cc2adb5796f52ebca4f *inst/include/sparseLTSEigen.h
+e589b98a4e54c418e3afaef412905974 *inst/include/MatrixAddons.h
+8f4705c1cf838ef6736efb91dd7a3caf *inst/include/sparseLTSEigen.h
 902011988cc3c3c464ecfa0e73912897 *man/sparseLTSEigen-package.Rd
 dd80113f650478da3ba1194ce117badd *src/Makevars
 a68f199e32889b4dfd181da114dc6adc *src/Makevars.win
